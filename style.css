@@ -1,0 +1,32 @@
+h2:hover {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+}
+
+#Services {
+    color: green;
+}
+
+li {
+    color: purple;
+}
+
+    td :only-child {
+        color: purple;
+    }
+
+    #google-link:link {
+        color: blue;
+    }
+
+    #google-link:visited {
+        color: red;
+
+    }
